@@ -21,7 +21,7 @@ There are ten methods in here which are:
 TUR
 MERHABA,
 Bu bir ders için yaptığım ilk ciddi proje diyebilirim.
-Bunu görenlerle paylaşmaktan mutluluk duyuyorum. (LİnkedIn kaçmış buraya biraz)
+Bunu görenlerle paylaşmaktan mutluluk duyuyorum. (LinkedIn kaçmış buraya biraz)
 Hala yapılabilecek birçok iyileştirme var, bu yüzden üzerinde çalışmaya devam edeceğim. Umarım bir gün buraya tamamlandığını yazarım.
 Yıldız Teknik'ten birinci sınıf arkadaşları beklerim, sayısal analiz projesi genelde pek değişmez. Size yardımcı olabilirsem mutlu olurum.
 Şu anda buraya koyduğum ilk dosyanın trigonometrik ve logaritmik fonksiyonlar için işlem yapamıyor,bunu değiştirmeyi umuyorum.
